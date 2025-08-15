@@ -20,10 +20,6 @@ As a seasoned Machine Learning Engineer at Ebuss, the task at hand is clear: dev
 
 In this fast-paced e-commerce landscape, staying ahead demands not just meeting but exceeding customer expectations. With a sentiment-driven approach to recommendations, Ebuss aims to elevate the shopping experience, fostering customer satisfaction and loyalty.
 
-### Solution
-
-* github link: https://github.com/ankurdhuriya/SentimentBasedProductRecommendation
-
 ### Built with
 
 * Python 3.9.12
